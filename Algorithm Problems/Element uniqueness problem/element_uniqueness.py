@@ -1,0 +1,1 @@
+# check weather all elements in a given array is unique
